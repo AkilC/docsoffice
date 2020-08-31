@@ -6,8 +6,8 @@ public class Main {
 
 		String patientName = "Stacey Manson";
 		boolean hasInsurance = false;
-		double temp = 102;
-		float numVisits = 5.02f;
+		float temp = 102.2f;
+		int numVisits = 5;
 		float copay = 35.00f;
 		String nextAppt = "10/25/20";
 		String contactNum = "(909)202-1908";
